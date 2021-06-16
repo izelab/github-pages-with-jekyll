@@ -1,3 +1,8 @@
+---
+title: "About me"
+date: 2021-06-15
+---
+
 Hello and welcome to my first blog post. Here is where I will say some info about me. 
 
 My name is Izel Abreu-Feliciano
